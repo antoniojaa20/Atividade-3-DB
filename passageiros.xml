@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<passageiros>
+	<passageiro>>
+		<nome>Isabelly</nome>
+		<idade>20</idade>
+		<ticket>12345</ticket>
+		<origem>Campina Grande</origem>
+		<destino>São Paulo</destino>
+	</passageiro>
+	<passageiro>
+		<nome>Antônio</nome>
+		<idade>50</idade>
+		<ticket>54321</ticket>
+		<origem>Rio de Janeiro</origem>
+		<destino>Gramado</destino>
+	</passageiro>
+	<passageiro>
+		<nome>Lívia</nome>
+		<idade>25</idade>
+		<ticket>112233</ticket>
+		<origem>Recife</origem>
+		<destino>Rio de Janeiro</destino>
+	</passageiro>
+	<passageiro>
+		<nome>Vinícius</nome>
+		<idade>18</idade>
+		<ticket>445566</ticket>
+		<origem>Manaus</origem>
+		<destino>João Pessoa</destino>
+	</passageiro>
+	<passageiro>
+		<nome>Carol</nome>
+		<idade>40</idade>
+		<ticket>778899</ticket>
+		<origem>Teresina</origem>
+		<destino>Campina Grande</destino>
+	</passageiro>
+</passageiros>
